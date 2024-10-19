@@ -3,6 +3,12 @@
 ## Introduction
 This application is a Flask-based API for managing users and roles.
 
+## Features
+- User Signup and Login
+- Role CRUD operations
+- Bulk user updates
+- Search functionality for users
+
 ## Python Version
 Python 3.8 and above.
 
